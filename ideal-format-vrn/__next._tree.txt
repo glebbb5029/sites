@@ -1,0 +1,10 @@
+:HL["/ideal-format-vrn/_next/static/chunks/2basgmtsc7trg.css","style"]
+:HL["/ideal-format-vrn/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ideal-format-vrn/_next/static/media/276a8f4fe816cb6b-s.p.2v2sz4qlut9s1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ideal-format-vrn/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ideal-format-vrn/_next/static/media/932d3869cac5e2f5-s.p.2cu8l7zf4s4ec.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ideal-format-vrn/icon.svg","image"]
+:HL["/ideal-format-vrn/images/max-logo.svg","image"]
+:HL["/ideal-format-vrn/images/hero.jpg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"CvjcJpfa6usuGlpnmv4ZE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
