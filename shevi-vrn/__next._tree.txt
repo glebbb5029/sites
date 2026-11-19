@@ -1,3 +1,5 @@
-:HL["/shevi-vrn/_next/static/chunks/2x8o2h8vagrkt.css","style"]
+:HL["/shevi-vrn/_next/static/chunks/0-mzn2ftztyae.css","style"]
+:HL["/shevi-vrn/images/max-logo.svg","image"]
+:HL["/shevi-vrn/images/nogti1.jpg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"PWXteklYJXyaSEMuFwVMn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"8p-bDTcucmPjaoLkXqvA6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
