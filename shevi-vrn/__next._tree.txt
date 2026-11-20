@@ -1,6 +1,6 @@
-:HL["/shevi-vrn/_next/static/chunks/2lt8ky_2mjrkj.css","style"]
+:HL["/shevi-vrn/_next/static/chunks/2u18nvor7h448.css","style"]
 :HL["/shevi-vrn/images/max-logo.svg","image"]
 :HL["/shevi-vrn/images/nogti1.jpg","image"]
 :HL["/shevi-vrn/images/2gis-icon-logo.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"q_88PDsgRYqIO6Kmf_Kuf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"We7CU0BtOrpV4LVUirJrx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
