@@ -1,0 +1,6 @@
+:HL["/beauty-salon-1/_next/static/chunks/0khcrfw5ptctt.css","style"]
+:HC["/",""]
+:HL["/beauty-salon-1/icon.svg","image"]
+:HL["/beauty-salon-1/images/hero.jpg","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"_aNqL_3klSjy-5sRxEK4_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
