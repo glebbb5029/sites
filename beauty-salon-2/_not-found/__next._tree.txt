@@ -1,4 +1,4 @@
-:HL["/beauty-salon-2/_next/static/chunks/16918jt11w20z.css","style"]
+:HL["/beauty-salon-2/_next/static/chunks/199-3a573zyj2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"-v5m3d_3-fsRuZxja5BMs","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"yc8TPCZZrZcTvvviKSWz5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
